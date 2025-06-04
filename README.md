@@ -1,0 +1,2 @@
+# LOGIC_DESIGN_HDL
+ĐÂY LÀ BÀI TẬP LỚN HDL 
